@@ -9,7 +9,7 @@
   "author": "Yusuf",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^3.1.2",
+    "apollo-server": "^3.4.1",
     "apollo-server-express": "^3.1.2",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
